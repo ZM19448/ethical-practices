@@ -1,1 +1,7 @@
-# ethical-practices
+# Ethics & Technology Notes
+
+Technology plays a big role in how we live, work, and communicate, so it’s important to use it responsibly. The Australian Computer Society (ACS) Code of Ethics provides guidelines that help IT professionals act in a way that benefits society. It highlights values like honesty, trust, respect, and competence. This means always being truthful in our work, respecting others’ privacy and data, and constantly improving our skills so that what we create is reliable and safe. It also reminds us to think about how our work can impact people and the community, not just how it benefits us or the business.
+
+Another important concept is Indigenous Data Sovereignty, which is about Indigenous peoples having control over the data and information that represents them. It ensures that data about Indigenous communities is collected and shared in a way that respects their culture, traditions, and rights. I believe this is especially important in Australia, where understanding and respecting Indigenous ownership of knowledge is part of being ethical and professional.
+
+In my future career, I plan to follow these principles by protecting user data, giving proper credit, and making sure my projects don’t harm others. I’ll always check that the systems I design respect privacy and cultural values. Being ethical isn’t just about following rules—it’s about doing what’s right even when no one is watching.
